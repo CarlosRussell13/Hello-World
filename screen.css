@@ -18,7 +18,9 @@ main {
 }
 
 .masthead {
-    background: no-repeat bottom / cover url('images/MAC.png');
+    background-image: url('images/MAC.png');
+    background-size: cover;
+    background-position: bottom;
     height:250px;
     border-radius: 20px;
 }
@@ -32,7 +34,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
-    border-radius: 20px:
+    border-radius: 20px;
     
 }
 
