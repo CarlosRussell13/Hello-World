@@ -2,11 +2,11 @@
 
 body {
     background: #ffffff
-    border-box: 15px solid #424242;
     
 }
 {
     font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
 }
 img {
     width: 100%;
